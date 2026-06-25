@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1200&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Jumana+Mostafa;Data+Science+%26+AI+Student;Machine+Learning+Engineer;Information+Retrieval+Researcher" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=👋+Hi%2C+I'm+Jumana;📊+Data+Science+Student;🤖+Artificial+Intelligence+Enthusiast;🔍+Information+Retrieval+Explorer;🚀+Building+AI+Solutions" />
 </p>
 # 💫 About Me:
 
