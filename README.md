@@ -73,5 +73,7 @@ Hi, I'm Jumana 👋
 [![Jumana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=s-jumanamostafa&theme=tokyo-night)](https://github.com/s-jumanamostafa)
 ---
 [![](https://komarev.com/ghpvc/?username=s-jumanamostafa&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🐍 Contribution Snake
 
+![Snake animation](https://github.com/s-jumanamostafa/s-jumanamostafa/blob/output/github-contribution-grid-snake.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
