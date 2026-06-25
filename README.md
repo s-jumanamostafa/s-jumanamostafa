@@ -1,5 +1,9 @@
+<h1 align="center">JUMANA MOSTAFA</h1>
+
+<h3 align="center">Data Science & Artificial Intelligence Student</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=800&color=00FFFF&background=00000000&center=true&vCenter=true&width=1000&lines=DATA+SCIENCE+%26+AI;MACHINE+LEARNING;INFORMATION+RETRIEVAL;ZEWAIL+CITY+STUDENT" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Machine+Learning;Information+Retrieval;Data+Mining;Data+Analytics;Artificial+Intelligence" />
 </p>
 
 # 💫 About Me:
