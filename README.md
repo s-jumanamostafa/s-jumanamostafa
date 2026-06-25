@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ai-neural-network.gif" width="100%">
+  <img src="ai-neural-network.gif" width="100%" height="250">
 </p>
 
 <h1 align="center">
