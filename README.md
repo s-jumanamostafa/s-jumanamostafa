@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ai-neural-network.gif" width="100%">
+</p>
+
 <h1 align="center">
   <span style="font-size:60px; color:#FF1493;">
     JUMANA MOSTAFA
